@@ -1,6 +1,7 @@
 .{
     .name = .jstl,
     .version = "0.0.1",
+    .minimum_zig_version = "0.14.0",
     .fingerprint = 0x2c3f8ff38afaebc5,
     .paths = .{
         "build.zig",
