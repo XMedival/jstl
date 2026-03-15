@@ -1,0 +1,10 @@
+.{
+    .name = .jstl,
+    .version = "0.0.1",
+    .fingerprint = 0x2c3f8ff38afaebc5,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
